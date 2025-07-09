@@ -1,4 +1,4 @@
-# SQL With MySQL - Mam Sharda's Complete Course 🚀
+# SQL With MySQL - Mam Shradha's Complete Course 🚀
 
 This repository contains my complete SQL learning journey based on **Shradha MAm(Apna college) SQL using MySQL course** taught at #Apnacollege e-learning platform(youtube channel).  
 I have covered all the major SQL concepts, created notes, and solved various practice questions to strengthen my knowledge.
