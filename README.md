@@ -27,7 +27,7 @@ I have covered all the major SQL concepts, created notes, and solved various pra
 ✅ DELETE Statement  
 ✅ ALTER TABLE  
 ✅ DROP and TRUNCATE  
-✅ JOINS (INNER, LEFT, RIGHT, FULL OUTER JOIN)  
+✅ JOINS (INNER, LEFT, RIGHT, FULL OUTER ,SELF AND EXCLUSIVE JOIN)  
 ✅ Subqueries  
 ✅ Views  
 ✅ Indexing  
